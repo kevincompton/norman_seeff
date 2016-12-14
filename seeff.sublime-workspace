@@ -1,0 +1,500 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"what",
+				"what-is-grid_overlay"
+			],
+			[
+				"overf",
+				"overflow-y"
+			],
+			[
+				"lo",
+				"lowercase"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"product",
+				"productView"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"form",
+				"form-label"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"textr",
+				"text-transform"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"prod",
+				"productView"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "set synta sa",
+		"selected_items":
+		[
+			[
+				"set synta sa",
+				"Set Syntax: Sass"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 493.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kevincompton/Sites/seeff/wp-config.php",
+		"/Users/kevincompton/Sites/seeff/Gruntfile.js",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/common/head.html",
+		"/Users/kevincompton/Sites/trx-stencil/assets/scss/components/trx/globals/_modules.scss",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/home/training-ugc.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/home/training-info.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/home/training-comparison.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/pages/home.html",
+		"/Users/kevincompton/Sites/trx-stencil/assets/js/theme/global/tap-videos.js",
+		"/Users/kevincompton/Sites/trx-stencil/assets/scss/layouts/what-is-trx/_body.scss",
+		"/Users/kevincompton/Sites/trx-stencil/templates/pages/custom/page/what-is-trx.html",
+		"/Users/kevincompton/Sites/trx-stencil/assets/js/app.js",
+		"/Users/kevincompton/Sites/trx-stencil/assets/js/theme/global.js",
+		"/Users/kevincompton/Sites/trx-stencil/assets/js/theme/global/modal.js",
+		"/Users/kevincompton/Sites/trx-stencil/templates/layout/base.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/pages/compare.html",
+		"/Users/kevincompton/Sites/trx-stencil/assets/scss/layouts/chat/_chat.scss",
+		"/Users/kevincompton/Sites/trx-stencil/assets/js/theme/common/chat.js",
+		"/Users/kevincompton/Sites/trx-stencil/assets/scss/components/stencil/productView/_productView.scss",
+		"/Users/kevincompton/Sites/trx-stencil/assets/scss/components/stencil/heroCarousel/_heroCarousel.scss",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/common/icons/icon-defs.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/common/chat.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/common/footer.html",
+		"/Users/kevincompton/Sites/trx-stencil/lang/en.json",
+		"/Users/kevincompton/Sites/trx-stencil/.stencil",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/carousel.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/carousel-content.html",
+		"/Users/kevincompton/Sites/trx-stencil/assets/scss/layouts/products/_productView.scss",
+		"/Users/kevincompton/Sites/trx-stencil/config.json",
+		"/Users/kevincompton/Sites/trx-stencil/assets/scss/vendor/foundation/reveal.scss",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/category/filter-box.html",
+		"/Users/kevincompton/Sites/trx-stencil/assets/scss/components/trx/_selector.scss",
+		"/Users/kevincompton/Sites/trx-stencil/assets/scss/components/stencil/previewCart/_previewCart.scss",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/products/gallery-slider.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/pages/custom/category/straps-content.html",
+		"/Users/kevincompton/Sites/trx-stencil/assets/scss/components/stencil/compare/_compare.scss",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/products/product-view.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/common/subscription-form.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/products/grid.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/common/navigation-menu.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/pages/custom/product/detailed-content.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/products/section-workouts.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/products/section-content-block.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/pages/custom/product/education.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/products/reviews-placeholder.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/products/reviews.html",
+		"/Users/kevincompton/Sites/trx-stencil/assets/js/theme/product/accordion.js",
+		"/Users/kevincompton/Sites/trx-stencil/assets/js/trx/education.js",
+		"/Users/kevincompton/Sites/trx-stencil/assets/js/theme/product.js",
+		"/Users/kevincompton/Sites/trx-stencil/assets/js/trx/courses/api/index.js",
+		"/Users/kevincompton/Sites/trx-stencil/assets/js/trx/courses/course-schedule/course-store/data.json",
+		"/Users/kevincompton/Sites/trx-stencil/assets/js/trx/courses/course-schedule/course-store/index.js",
+		"/Users/kevincompton/Sites/trx-stencil/templates/pages/custom/product/education-content.html",
+		"/Users/kevincompton/Sites/trx-stencil/assets/scss/components/trx/_education.scss",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/products/options/set-select.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/pages/product.html",
+		"/Users/kevincompton/Sites/trx-stencil/assets/js/theme/category.js",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/products/card.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/pages/custom/category/straps-category.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/pages/custom/product/straps-category.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/pages/custom/product/straps.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/pages/custom/product/straps-content.html",
+		"/Users/kevincompton/Sites/trx-stencil/templates/pages/custom/product/product-straps.html",
+		"/Users/kevincompton/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/common/body.html",
+		"/Users/kevincompton/Sites/trx-stencil/assets/js/theme/product/reviews.js",
+		"/Users/kevincompton/Sites/trx-stencil/templates/components/products/ratings.html",
+		"/Users/kevincompton/Sites/trx-stencil/assets/scss/components/stencil/rating/_rating.scss",
+		"/Users/kevincompton/Sites/trx-stencil/assets/js/theme/product/video-gallery.js",
+		"/Users/kevincompton/Sites/trx-stencil/templates/pages/custom/product/product-straps-content.html",
+		"/Users/kevincompton/Sites/trx-stencil/assets/scss/components/foundation/accordion/_accordion.scss",
+		"/Users/kevincompton/Sites/trx-stencil/assets/js/vendor/accordion.js",
+		"/Users/kevincompton/Sites/crunch_spain/source/localizable/legal.html.erb",
+		"/Users/kevincompton/Sites/crunch_spain/source/localizable/privacy.html.erb",
+		"/Users/kevincompton/Sites/crunch_spain/source/stylesheets/modules/_locations-section.scss",
+		"/Users/kevincompton/Sites/crunch_spain/source/localizable/partials/_header.erb",
+		"/Users/kevincompton/Sites/crunch_spain/source/layouts/layout.erb",
+		"/Users/kevincompton/Sites/crunch_spain/config.rb",
+		"/Users/kevincompton/Sites/crunch_spain/source/localizable/partials/_footer.erb",
+		"/Users/kevincompton/Sites/crunch_spain/source/localizable/index.html.erb",
+		"/Users/kevincompton/Sites/crunch_spain/source/localizable/partials/_locations.erb",
+		"/Users/kevincompton/Sites/crunch_spain/data/locations.yml",
+		"/Users/kevincompton/Sites/crunch_cr7/source/stylesheets/elements/_class-option.scss",
+		"/Users/kevincompton/Sites/crunch_cr7/source/stylesheets/modules/_header.scss",
+		"/Users/kevincompton/Sites/crunch_cr7/source/stylesheets/placeholders/_blue-highlight.scss",
+		"/Users/kevincompton/Sites/crunch_cr7/source/stylesheets/placeholders/_orange-highlight.scss",
+		"/Users/kevincompton/Sites/crunch_cr7/source/stylesheets/modules/_pass-form-mini.scss",
+		"/Users/kevincompton/Sites/crunch_cr7/source/stylesheets/modules/_hero-section.scss",
+		"/Users/kevincompton/Sites/crunch_cr7/source/stylesheets/elements/_carousel.scss",
+		"/Users/kevincompton/Sites/crunch_cr7/source/localizable/partials/_classes.erb",
+		"/Users/kevincompton/Sites/doritos-red-vs-blue/app/assets/stylesheets/application.scss",
+		"/Users/kevincompton/Sites/doritos-red-vs-blue/app/views/layouts/application.html.erb",
+		"/Users/kevincompton/Sites/doritos-red-vs-blue/.env"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"training_info",
+			"form-fiel",
+			"star",
+			"first",
+			"{{> components/products/ratings",
+			"customiza",
+			"description"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "seeff.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"modules.scs",
+				"assets/scss/components/trx/globals/_modules.scss"
+			],
+			[
+				"productview",
+				"assets/scss/components/stencil/productView/_productView.scss"
+			],
+			[
+				"hero",
+				"assets/scss/components/stencil/heroCarousel/_heroCarousel.scss"
+			],
+			[
+				"icons-de",
+				"templates/components/common/icons/icon-defs.html"
+			],
+			[
+				"heroca",
+				"assets/scss/components/stencil/heroCarousel/_heroCarousel.scss"
+			],
+			[
+				"chat",
+				"assets/scss/layouts/chat/_chat.scss"
+			],
+			[
+				"product",
+				"assets/scss/layouts/products/_productView.scss"
+			],
+			[
+				"reveal.sc",
+				"assets/scss/vendor/foundation/reveal.scss"
+			],
+			[
+				"filter-box",
+				"templates/components/category/filter-box.html"
+			],
+			[
+				"selector.scs",
+				"assets/scss/components/trx/_selector.scss"
+			],
+			[
+				"prod",
+				"assets/scss/layouts/products/_productView.scss"
+			],
+			[
+				"previewcart",
+				"assets/scss/components/stencil/previewCart/_previewCart.scss"
+			],
+			[
+				"compare.scs",
+				"assets/scss/components/stencil/compare/_compare.scss"
+			],
+			[
+				"stra",
+				"templates/pages/custom/category/straps-content.html"
+			],
+			[
+				"navi",
+				"templates/components/common/navigation-menu.html"
+			],
+			[
+				"produtview",
+				"assets/scss/components/stencil/productView/_productView.scss"
+			],
+			[
+				"productv",
+				"assets/scss/layouts/products/_productView.scss"
+			],
+			[
+				"rating",
+				"assets/scss/components/stencil/rating/_rating.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
