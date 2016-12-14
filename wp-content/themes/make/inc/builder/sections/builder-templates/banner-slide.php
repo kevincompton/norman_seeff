@@ -72,7 +72,7 @@ $overlay_id  = 'ttfmake-overlay-' . $combined_id;
 		100 => array(
 			'type'    => 'text',
 			'name'    => 'video',
-			'label'   => __( 'Enter vimeo url', 'make' ),
+			'label'   => __( 'Enter vimeo video ID', 'make' ),
 			'default' => '',
 		),
 		200 => array(
