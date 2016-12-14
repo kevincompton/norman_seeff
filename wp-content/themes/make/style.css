@@ -48,18 +48,25 @@
 
 .controls-wrap {
 	background: black;
-	padding: 15px;
+	padding: 12px;
 	position: absolute;
-	right: 60px;
-	bottom: 60px;
+	right: 0px;
+	bottom: 40px;
+	width: 50px;
 }
 
 .controls-wrap button {
 	background: transparent;
+	padding: 0;
+	margin: 0;
 }
 
 .controls-wrap button img {
-	height: 25px;
+	width: 50px;
+}
+
+.controls-wrap button:first-child {
+	margin-bottom: 12px;
 }
 
 .builder-banner-inner-content {

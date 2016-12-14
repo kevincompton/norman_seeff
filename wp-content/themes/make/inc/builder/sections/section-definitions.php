@@ -377,7 +377,7 @@ class TTFMAKE_Section_Definitions {
 				}
 
 				if ( isset( $slide['video'] ) ) {
-					$clean_data['banner-slides'][ $id ]['video'] = esc_url_raw( $slide['video'] );
+					$clean_data['banner-slides'][ $id ]['video'] = $slide['video'];
 				}
 
 				if ( isset( $slide['background-color'] ) ) {

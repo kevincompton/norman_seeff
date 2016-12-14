@@ -16,7 +16,9 @@ var MakeFrontEnd = MakeFrontEnd || {};
 	var close = $('.video-modal span.close');
 
 	$('.video-modal-trigger').click(function() {
-		var vidUrl = $(this).data('video');
+		var vidID = $(this).data('video');
+
+		var vidUrl = "https://player.vimeo.com/video/" + vidID + "?autoplay=1";
 		
 		video.attr('src', vidUrl);
 
@@ -32,6 +34,7 @@ var MakeFrontEnd = MakeFrontEnd || {};
 
 	close.click(function() {
 		vidModal.fadeOut();
+		video.attr('src', '#');
 	});
 
 	$('.text-modal span.close').on('click', function() {
