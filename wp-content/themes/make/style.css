@@ -48,11 +48,10 @@
 
 .controls-wrap {
 	background: black;
-	padding: 12px;
 	position: absolute;
 	right: 0px;
 	bottom: 40px;
-	width: 50px;
+	width: 70px;
 }
 
 .controls-wrap button {
@@ -62,11 +61,11 @@
 }
 
 .controls-wrap button img {
-	width: 50px;
+	width: 70px;
 }
 
-.controls-wrap button:first-child {
-	margin-bottom: 12px;
+.controls-wrap button {
+	padding: 12px;
 }
 
 .builder-banner-inner-content {
