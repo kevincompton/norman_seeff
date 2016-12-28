@@ -40,6 +40,24 @@
 	padding: 60px 25%;
 }
 
+.builder-section-banner .cycle-next:before {
+	background: url(images/right.svg);
+	width: 40px;
+	height: 40px;
+	background-size: 100% auto;
+	content: "" !important;
+	display: block;
+}
+
+.builder-section-banner .cycle-prev:before {
+	background: url(images/left.svg);
+	width: 40px;
+	height: 40px;
+	background-size: 100% auto;
+	content: "" !important;
+	display: block;
+}
+
 .video-modal iframe {
 	height: 100%;
 	width: 100%;
@@ -49,9 +67,9 @@
 .controls-wrap {
 	background: black;
 	position: absolute;
-	right: 0px;
+	right: -80px;
 	bottom: 40px;
-	width: 70px;
+	width: 42px;
 }
 
 .controls-wrap button {
@@ -61,7 +79,7 @@
 }
 
 .controls-wrap button img {
-	width: 70px;
+	width: 30px;
 }
 
 .controls-wrap button {
@@ -2921,8 +2939,7 @@ div.wp-video-shortcode {
 -------------------------------------------------------- */
 
 .builder-section-banner.has-background {
-	padding: 52px 0 0;
-	padding: 5.2rem 0 0;
+
 }
 
 

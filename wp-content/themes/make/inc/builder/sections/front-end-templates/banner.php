@@ -20,7 +20,7 @@ $darken   = ( isset( $ttfmake_section_data[ 'darken' ] ) ) ? absint( $ttfmake_se
 		<div class="builder-banner-slide<?php echo ttfmake_builder_banner_slide_class( $slide ); ?>" style="<?php echo ttfmake_builder_banner_slide_style( $slide, $ttfmake_section_data ); ?>">
 			<div class="builder-banner-content">
 				<div class="text-modal">
-						<span class="close" aria-hidden="true"><img src="<?php echo get_template_directory_uri(); ?>/images/close.png" /></i>
+						<span class="close" aria-hidden="true"><img src="<?php echo get_template_directory_uri(); ?>/images/close.svg" /></i>
 						<?php ttfmake_get_builder_save()->the_builder_content( $slide['content'] ); ?>
 					</div>
 
@@ -56,9 +56,6 @@ $darken   = ( isset( $ttfmake_section_data[ 'darken' ] ) ) ? absint( $ttfmake_se
 	<?php endif; ?>
 </section>
 
-<div class="video-modal">
-	<span class="close" aria-hidden="true"><img src="<?php echo get_template_directory_uri(); ?>/images/close.png" /></i>
-	<iframe src="#" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
+
 
 
