@@ -46,6 +46,10 @@
 	overflow-y: scroll;
 }
 
+.text-modal b. .text-modal strong {
+	color: #ffbb18;
+}
+
 .builder-section-banner .cycle-next:before {
 	background: url(images/right.svg);
 	width: 40px;
@@ -71,11 +75,11 @@
 }
 
 .controls-wrap {
-	background: black;
+	background: transparent;
 	position: absolute;
 	right: -80px;
-	bottom: 40px;
-	width: 42px;
+	bottom: 30px;
+	width: 52px;
 }
 
 .controls-wrap button {
@@ -85,7 +89,12 @@
 }
 
 .controls-wrap button img {
-	width: 30px;
+	width: 40px;
+}
+
+.controls-wrap button:first-child {
+	margin-bottom: 0;
+	padding-bottom: 0;
 }
 
 .controls-wrap button {

@@ -28,11 +28,11 @@ $darken   = ( isset( $ttfmake_section_data[ 'darken' ] ) ) ? absint( $ttfmake_se
 
 				<div class="controls-wrap">
 					<?php if($slide['video'] != ""){ ?>
-						<button class="video-modal-trigger" data-video="<?php echo $slide['video']; ?>"><img src="<?php echo get_template_directory_uri(); ?>/images/v.png" /></button>
+						<button class="video-modal-trigger" data-video="<?php echo $slide['video']; ?>"><img src="<?php echo get_template_directory_uri(); ?>/images/video.svg" /></button>
 					<?php } ?>
 
 					<?php if(strlen($slide['content']) > 0){ ?>
-						<button class="text-modal-trigger"><img src="<?php echo get_template_directory_uri(); ?>/images/t.png" /></button>
+						<button class="text-modal-trigger"><img src="<?php echo get_template_directory_uri(); ?>/images/text.svg" /></button>
 					<?php } ?>
 				</div>
 
